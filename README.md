@@ -1,4 +1,4 @@
-# 💻 TechPastel - Tienda de Tecnología Pastel
+# 💻 TechFans - Tienda de Tecnología Pastel
 
 Este proyecto es un **Trabajo Práctico** de desarrollo web que simula una tienda online de productos tecnológicos (periféricos y setup) con una estética moderna basada en colores pasteles. El sitio está estructurado de forma multipágina, garantizando una excelente experiencia de usuario y un diseño totalmente adaptativo.
 
